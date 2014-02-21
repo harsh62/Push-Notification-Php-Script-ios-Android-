@@ -1,0 +1,24 @@
+{
+    "deviceDetails": {
+        "android": [
+            "testAPA91bHI-LugjHT-ZIgDnzAlnufR2flWmVVCpX9KcZiwJk1wropNMtlXfR5gQKyYi-VqdPzTfnDySRmf6A_SfG8WE4lPS8QKmtozcLqrerHkmrQlb7jkJH3xZZK482Y1lAfCLnRXoLev1d0Xr1lFVfys63n65MqAwg",
+"testAPA91bHhLNMVqFxLWUOcLupzvxGOgrf2GynRFl5QBPhbRanq0pafl_5mQ2ewlBXEwAeFXisNJbjHlj8pc8PEwsJFcPE09biJjTgDeou4SBYcSrlCWuRmUIScbEynXnf3lKXiChMS8FVVFH-P_YMsb6daprXejmL4nw"
+        ],
+"ios": [
+          
+        ]
+    },
+    "messageDetails": {
+        "message": "This is the body of the push notification",
+        "title": "Title of Push"
+    },
+    "certificationDetails": {
+        "ifDeviceTypeIos": {
+            "locationOfPemFile": "location of pem File",
+            "passPhrase": "abc"
+        },
+        "orIfDeviceTypeAndroid": {
+            "certificationId": "AIzaSyBT_NjP04tllpdlW1K1LC9qa9DwTKnZckg"
+        }
+    }
+}
